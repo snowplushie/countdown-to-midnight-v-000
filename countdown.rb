@@ -9,4 +9,6 @@ end
 end
 
 def countdown_with_sleep(time)
-  
+  while time > 0
+  puts "#{time} SECONDS!"
+  time(1)
