@@ -2,6 +2,7 @@
 
 
 
-def countdown
-  
+def countdown(time)
+  while time = 10
+  puts "#{time} SECONDS!"
 end
